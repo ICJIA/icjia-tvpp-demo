@@ -5,4 +5,4 @@ template: things
 mount: things
 id: 26a4ce21-d768-440d-806b-213918df0ee0
 ---
-I use these things on a regular basis out here in the wildlands. When I'm feeling sad I simply remember them and then I don't feel so bad.
+I use these things on a regular basis out here in the wildlands. When I'm feeling sad I simply remember them and then I don't feel so very bad.
